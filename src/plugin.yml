@@ -1,0 +1,5 @@
+main: pl.mcdev.cdm.Main
+version: 0.0.1
+description: Plugin na wlasne wiadomosci posmiertelne.
+name: CustomDeathMessagesLVLUP
+commands:
